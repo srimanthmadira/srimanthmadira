@@ -4,6 +4,8 @@
 
 - <b>Database Management</b>
   - [Geographic Information Systems (GIS) spatial data analysis using PostgreSQL](https://github.com/srimanthmadira/Geographic-Information-Systems-GIS-spatial-data-analysis-using-PostgreSQL-)
+- <b>Data Modeling</b>
+  - [Data Modeling and Analysis: Classification and Regression with scikit-learn](https://github.com/srimanthmadira/Data-Modeling-and-Analysis-Classification-and-Regression-with-scikit-learn#data-modeling-and-analysis-classification-and-regression-with-scikit-learn)
 
 
 <h2>📺 Popular YouTube Videos</h2>
