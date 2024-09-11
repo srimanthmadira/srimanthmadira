@@ -1,7 +1,9 @@
 <h1>Hi, I'm Srimanth! <br/><a href="https://github.com/srimanthmadira">Aspiring Data Scientist</a>, <a href="https://www.linkedin.com/in/srimanth-madira-920550198/">Data Analyst</a>, <a href="https://www.linkedin.com/in/srimanth-madira-920550198/">AI/ML Enthusiastic</a>, <a href="https://youtube.com/@SrimanthMadira212?si=IGMY0FIDKnL8ptxR">YouTuber</a></h1>
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
+- <b>Data Pipelining</b>
+  - [Mushroom Classification Datapipeline](https://github.com/srimanthmadira/Mushroom-Classification-Data-Pipeline)
 - <b>Database Management</b>
   - [Geographic Information Systems (GIS) spatial data analysis using PostgreSQL](https://github.com/srimanthmadira/Geographic-Information-Systems-GIS-spatial-data-analysis-using-PostgreSQL-)
 - <b>Data Modeling</b>
