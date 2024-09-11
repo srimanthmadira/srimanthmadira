@@ -1,4 +1,4 @@
-<h1>Hi, I'm Srimanth! <br/><a href="https://github.com/srimanthmadira">Aspiring Data Analyst</a>, <a href="https://www.linkedin.com/in/srimanth-madira-920550198/">Data Engineer</a>, <a href="https://youtube.com/@SrimanthMadira212?si=IGMY0FIDKnL8ptxR">YouTuber</a></h1>
+<h1>Hi, I'm Srimanth! <br/><a href="https://github.com/srimanthmadira">Aspiring Data Scientist</a>, <a href="https://www.linkedin.com/in/srimanth-madira-920550198/">Data Analyst</a>, <a href="https://www.linkedin.com/in/srimanth-madira-920550198/">AI/ML Enthusiastic</a>, <a href="https://youtube.com/@SrimanthMadira212?si=IGMY0FIDKnL8ptxR">YouTuber</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
