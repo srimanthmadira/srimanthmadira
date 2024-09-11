@@ -7,6 +7,7 @@
 - <b>Database Management</b>
   - [Geographic Information Systems (GIS) spatial data analysis using PostgreSQL](https://github.com/srimanthmadira/Geographic-Information-Systems-GIS-spatial-data-analysis-using-PostgreSQL-)
 - <b>Data Modeling</b>
+  - [Predictive Marketing Analytics for Term Deposit Subscriptions](https://github.com/srimanthmadira/Predictive-Marketing-Analytics-for-Term-Deposit-Subscriptions)
   - [Data Modeling and Analysis: Classification and Regression with scikit-learn](https://github.com/srimanthmadira/Data-Modeling-and-Analysis-Classification-and-Regression-with-scikit-learn#data-modeling-and-analysis-classification-and-regression-with-scikit-learn)
 - <b>Data Visualization</b>
   - [Household Expenditure Analysis - Power BI](https://github.com/srimanthmadira/Household-Expenditures-Power-BI)
